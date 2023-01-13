@@ -16,17 +16,9 @@
   </a>
 </p>
 
-
-<div align="center">
-  <img height="132em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiMst00&layout=compact&count_private=true&theme=radical" />
-  <img height="133em" width="435em" src="https://github-readme-stats.vercel.app/api?username=MehdiMst00&count_private=true&hide=contribs,prs&show_icons=true&theme=radical" />
-</div>
-
----
-### 📫 You can reach me on:
+## 📫 You can reach me on:
 - Telegram at: [mehdi_mst](https://t.me/mehdi_mst)
 - Discord at: ***MehdiMst00#1916***
 - Email at: mohammadmehdi.mst@gmail.com
 - My personal website at: [mehdimst.com](https://mehdimst.com)
 - And my team website at: [novacoding.ir](https://novacoding.ir)
-
