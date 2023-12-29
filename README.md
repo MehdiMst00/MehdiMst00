@@ -17,10 +17,10 @@
 </p>
 
 <h2>📊 GitHub Stats:</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiMst00&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats-wheat-tau-10.vercel.app/api?username=MehdiMst00&show_icons=true&theme=transparent&how_icons=true&rank_icon=github&count_private=true" alt="GitHub Stats" />
 
 <h2>🎗️ Top Languages:</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiMst00&layout=compact)
+<img src="https://github-readme-stats-wheat-tau-10.vercel.app/api/top-langs/?username=MehdiMst00&layout=compact&count_private=true&theme=transparent" alt="Top Languages"/>
 
 ## 📫 You can reach me on:
 - Telegram at: [mehdi_mst](https://t.me/mehdi_mst)
